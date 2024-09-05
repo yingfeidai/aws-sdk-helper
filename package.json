@@ -34,6 +34,7 @@
   },
   "nx": {},
   "dependencies": {
+    "aws-sdk": "^2.1689.0",
     "tslib": "^2.3.0"
   }
 }
